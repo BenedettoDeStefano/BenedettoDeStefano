@@ -13,7 +13,7 @@
 
 ###
 
-<h5 align="left">💼  Competenze tecniche:</h5>
+<h4 align="left">💼  Competenze tecniche:</h4>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h5 align="left">📱 Contatti e Social:</h5>
+<h4 align="left">📱 Contatti e Social:</h4>
 
 ###
 
