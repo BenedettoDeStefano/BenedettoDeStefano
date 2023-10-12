@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Junior Developer con una solida esperienza nella creazione di soluzioni tecnologiche innovative. Il mio approccio si basa sulla precisione del codice e sull'innovazione tecnologica. Sono dedicato a creare soluzioni efficaci attraverso un approccio 'Less is More', dove la semplicità è la chiave per il successo.</p>
+<p align="left">Developer con una solida esperienza nella creazione di soluzioni tecnologiche innovative. Il mio approccio si basa sulla precisione del codice e sull'innovazione tecnologica. Sono dedicato a creare soluzioni efficaci attraverso un approccio 'Less is More', dove la semplicità è la chiave per il successo.</p>
 
 ###
 
@@ -60,11 +60,6 @@
 ###
 
 <p align="left">Sono noto per la mia comunicazione chiara e accessibile, che mi consente di tradurre concetti tecnici complessi in spiegazioni comprensibili. Sostenitore del lavoro di squadra, convinto che l'empatia e una comunicazione impeccabile siano essenziali per il successo di qualsiasi progetto.</p>
-
-###
-
-<br clear="both">
-
 
 ###
 
